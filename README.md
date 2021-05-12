@@ -67,6 +67,10 @@ See [How to edit config.py](https://github.com/1337w0rm/YeetMeet/issues/3#issuec
  4. `pip install -r requirements.txt`
  5. `python chromium.py` 
 
+
+# Deploy
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hyper-ub/meetbot-11)
+
 ## Deploy to Heroku
 
 > Note: Login to your Google account from your local machine first by sending /mlogin or /zlogin command to your bot on Telegram, so that you don't have to re-login again and again on Heroku. This will create a meet.pkl or zoom.pkl file in your YeetMeet directory depending on the command sent to Telegram Bot respectively 
